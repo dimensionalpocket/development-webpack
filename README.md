@@ -1,6 +1,10 @@
-# @dimensionalpocket/development-webpack
+## Archived
 
-[![build](https://github.com/dimensionalpocket/development-webpack/actions/workflows/node.js.yml/badge.svg)](https://github.com/dimensionalpocket/development-webpack/actions/workflows/node.js.yml) [![Total alerts](https://img.shields.io/lgtm/alerts/g/dimensionalpocket/development-webpack.svg)](https://lgtm.com/projects/g/dimensionalpocket/development-webpack/alerts/) [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/dimensionalpocket/development-webpack.svg)](https://lgtm.com/projects/g/dimensionalpocket/development-webpack/context:javascript)
+We no longer use webpack.
+
+--
+
+# @dimensionalpocket/development-webpack
 
 This bundle complements [`@dimensionalpocket/development-js`](https://github.com/dimensionalpocket/development-js) with Webpack dependencies and configuration defaults:
 
